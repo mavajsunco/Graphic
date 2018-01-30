@@ -1,1 +1,0 @@
-htpasswd -b .htpasswd mbg187-i33ec cp3nxPJhll+
